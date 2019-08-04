@@ -1,0 +1,23 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "x_373731_test_1.ScriptTest",
+  "client_callable": false,
+  "description": null,
+  "name": "ScriptTest",
+  "script": {
+    "____see": "sn\\Test_1\\Script Include\\active_true\\x_373731_test_1.ScriptTest.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-08-03 20:55:40",
+  "sys_id": "a8195a6ddb477300545aeb41ca961990",
+  "sys_mod_count": 1,
+  "sys_name": "ScriptTest",
+  "sys_package": "7bc812c9db433300545aeb41ca96190e",
+  "sys_policy": "read",
+  "sys_scope": "7bc812c9db433300545aeb41ca96190e",
+  "sys_update_name": "sys_script_include_a8195a6ddb477300545aeb41ca961990",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-08-03 20:56:09"
+}
